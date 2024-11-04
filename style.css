@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+
+}
+
+
+/* .name{
+    color: blue;
+    font-family: 'Gilroy';;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+
+}
+
+.tabs{
+    display: flex;
+    gap: 10px;
+    
+}
+
+
+.tab{
+    padding: 12px 22px;
+    background-color: #e9e9e9;
+    border: 2px solid #dadada;
+}
+
+h3{
+    display:none;
+    margin-top: 3vw;
+    width: 50%;
+    font-weight: 500;
+    font-size: 12px;
+} */
+
+/* .center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.btn-capsule{
+  background-color: #e9e9ee;
+  width: 300px;
+  height: 10px;
+  border: 2px solid #dadada;
+  border-radius: 50px;
+}
+
+
+.progress{
+    transition: all cubic-bezier(0.19, 1, 0.22, 1) 1s;
+    width: 10px;
+    height: 100%;
+    background-color: rgb(41, 218, 41);
+    border-radius: 50px;
+}
+
+h3{
+    opacity: 0;
+} */
+
+/* #main{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.container{
+    width: 70%;
+    margin: 0 auto ;;
+    padding: 5vw 10vw;
+}
+
+input{
+    padding:3px 10px ;
+    width: 100%;
+    border: 1px solid #dadadd;
+    border-radius: 20px;
+    outline: 1px solid royalblue;
+}
+
+.people{
+    margin-top: 3vw;
+    display: flex;
+    gap: 20px ;
+    flex-wrap: wrap;
+}
+
+.person{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width:fit-content ;
+}
+
+.img{
+   
+    width: 7vw;
+    height: 7vw;
+    border: 2px solid #dadadd;
+    border-radius: 50px;
+    background-color: red;
+    overflow: hidden;
+}
+
+.img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position:1% 0%;
+    
+}
+
+h5{
+    font-weight: 500;
+} */
+
+/* h1{
+
+} */
